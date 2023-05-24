@@ -6,7 +6,6 @@ Refer demo notebook [here](notebooks/demo.ipynb)
 
 ## Tutorial is available on YouTube [Click on the following thumbnail]-
 
-[![Watch the video](https://img.youtube.com/vi/S49aRE9CS6A/maxresdefault.jpg)](https://www.youtube.com/watch?v=S49aRE9CS6A)
 
 
 ## Steps to do the basic setup -
